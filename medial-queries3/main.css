@@ -1,3 +1,45 @@
 body {
   background: peachpuff;
 }
+.a {
+  width: 580px;
+  height: 150px;
+  border: 1px solid;
+  margin: 0 auto;
+
+}
+
+.f {
+  width: 580px;
+  height: 150px;
+  border: 1px solid;
+  margin: 0px auto;
+
+}
+
+.b {
+width: 580px;
+height: 260px;
+border: 1px solid;
+margin: 0px auto;
+}
+
+.c {
+  width: 186px;
+  height: 170px;
+  border: 1px solid;
+  margin: 0px;
+}
+
+.d {
+  width: 186px;
+  height: 170px;
+  border: 1px solid;
+  
+}
+
+.e {
+  width: 186px;
+  height: 170px;
+  border: 1px solid;
+}

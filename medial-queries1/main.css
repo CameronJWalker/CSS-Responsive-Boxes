@@ -1,3 +1,35 @@
 body {
   background: blanchedalmond;
 }
+.container{
+  display: flex;
+  position: relative;
+  width: 600px;
+  height: 800px;
+  border: 1px solid;
+  padding: 10px;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  justify-content: space-evenly;
+}
+.a{
+    width: 500px;
+    height: 75px;
+    border: 1px solid;
+    margin: 0 auto;
+    background-color: rgb(56, 56, 225);
+}
+.b{
+  width: 500px;
+  height: 500px;
+  border: 1px solid;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 165);
+}
+.c{
+  width: 500px;
+  height: 75px;
+  border: 1px solid;
+  margin: 0 auto;
+  background-color: rgb(25, 25, 118);
+}
